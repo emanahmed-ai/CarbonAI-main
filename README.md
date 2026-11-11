@@ -33,7 +33,20 @@ Double-click **`START_CARBONAI.bat`**, then open http://127.0.0.1:8000
 | Reports | CSV, PDF (EN/AR), detailed management PDF with embedded charts, annual reports with multi-year comparison |
 | Reduction plans | Data-driven insights from actual emissions, referenced suggestions, targets and a multi-year actual-vs-target roadmap |
 | ML | Row-level estimator + monthly/annual forecasting lifecycle (dataset fingerprint, chronological evaluation vs baseline, staged→admin-activated versions); no model ships until trained on real data |
+## 🖼️ System Screenshots
 
+### 1. Dashboard & Refrigerant KPIs
+![Dashboard Overview](docs/screenshots/01_dashboard_refrigerant_kpi.png)
+
+---
+
+### 2. Refrigerants Management Module
+![Refrigerants Module](docs/screenshots/02_refrigerants_module.png)
+
+---
+
+### 3. Reference Library & Emission Factors
+![Reference Library](docs/screenshots/03_reference_library.png)
 ## Roles
 
 | Role | Scope |
