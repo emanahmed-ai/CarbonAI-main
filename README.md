@@ -125,3 +125,9 @@ Predictions are planning estimates only — the deterministic engine always stay
 * Backup: Settings page button, `POST /api/settings/backup`, or
   `python scripts\db_admin.py backup` → `backups\`.
 * Restore: `python scripts\db_admin.py restore backups\<file>.db` (current DB saved aside first).
+---
+
+## 👤 إعداد وتطوير (Author & Developer)
+
+**إيمان أحمد (Eman Ahmed)**  
+*Data Analyst, BI Developer & AI Practitioner*
