@@ -43,18 +43,53 @@ Double-click **`START_CARBONAI.bat`**, then open http://127.0.0.1:8000
 | `factory_manager` | Own facility only: enter records, submit reports, own dashboards |
 | `viewer` | Read-only inside its facility |
 
-## Architecture
+## 🏗️ Architecture & Directory Structure
 
-```
-frontend/   React 18 + Vite + TypeScript + Tailwind + Recharts (built to frontend/dist,
-            served by the API at "/" — Arabic/English with full RTL support)
-api/        FastAPI REST layer (auth/JWT, RBAC, tenancy scoping, routers per domain)
-services/   Business logic: calculations, ledger, factor_library, scope_classifier,
-            importer, reports, submissions, ml_model, security — framework-free and tested
-db/         SQLite persistence: additive schema, idempotent seeding, backup/restore
-scripts/    db_admin, run_tests, train_emission_model, validate_reference_data
-tests/      105 tests (79 original core/DB + 26 end-to-end API tests)
-```
+```plaintext
+CarbonAI/
+├── 📄 START_CARBONAI.bat       # One-click startup script (Backend + Frontend)
+├── 📄 requirements.txt         # Core Python dependencies & ML libraries
+├── 📄 README.md                # Project documentation & overview
+│
+├── 📂 api/                     # FastAPI REST Layer
+│   ├── main.py                 # REST API entry point & CORS configuration
+│   └── routers/                # Domain routers (Auth/JWT, RBAC, Calculations, Reports, ML)
+│
+├── 📂 services/                # Framework-Free Business & AI Logic
+│   ├── calculation.py          # Deterministic GHG calculation engine (Scope 1, 2, 3)
+│   ├── scope_classifier.py     # Rule-based GHG protocol scope classifier
+│   ├── factor_library.py       # Versioned emission factors & verification workflow
+│   ├── ml_model.py             # Predictive AI models & evaluation lifecycle
+│   └── audit_logger.py         # System auditing & data integrity tracking
+│
+├── 📂 db/                      # Persistence & Database Architecture
+│   ├── schema.sql              # Relational schema & indexes
+│   ├── engine.py               # SQLite / DuckDB session management
+│   └── migrations/             # Safe additive schema migrations & automated backup
+│
+├── 📂 database/                # Reference Data & Seeding
+│   └── seed/                   # Official emission factors (EEHC 2023/2024, IPCC 2006/AR5)
+│
+├── 📂 frontend/                # Production React UI (Full RTL / AR & EN Support)
+│   ├── src/
+│   │   ├── components/         # Reusable UI components, charts & KPI cards
+│   │   ├── pages/              # Analytics dashboards, Refrigerants & Reports pages
+│   │   └── services/           # API integration layer
+│   ├── package.json            # Node.js dependencies (React 18, Vite, Tailwind, Recharts)
+│   └── vite.config.ts          # Vite bundler & development proxy settings
+│
+├── 📂 docs/                    # System Documentation & Visual Assets
+│   ├── screenshots/            # Dashboard UI previews & screenshots
+│   └── IMPLEMENTATION_REPORT.md # Technical implementation report
+│
+├── 📂 scripts/                 # Management & Administration Utilities
+│   ├── db_admin.py             # Database administration & backup/restore
+│   ├── run_tests.py            # Automated testing runner
+│   └── train_emission_model.py # ML model training pipeline
+│
+└── 📂 tests/                   # Automated Testing Suite (105 Tests)
+    ├── unit/                   # 79 core calculation & DB tests
+    └── e2e/                    # 26 end-to-end FastAPI API integration tests
 
 ## Development
 
