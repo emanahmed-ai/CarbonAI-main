@@ -1,0 +1,421 @@
+﻿country_code,year,sector,activity,gas,coverage_status,available_source,missing_reason,review_date,reviewer
+EG,2006,Energy - Power generation,grid_consumption,CO2e,pending,,No verified consumption-based national grid factor is published as a single figure. EEHC publishes generation-side thermal intensity only. Requires a documented derivation or a verified Egypt-specific source (e.g. IEA/Ember) before it may be used.,2026-11-03,system-audit
+EG,2006,Energy - Power generation,thermal_generation_intensity,CO2e,pending,EG-EEHC-AR-2023-24,EEHC annual report for this year has not been inspected in this build; the FY2023/24 figure must not be reused for earlier years.,2026-11-03,system-audit
+EG,2006,Energy - Stationary combustion,diesel,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2006,Energy - Stationary combustion,natural_gas,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2006,Energy - Stationary combustion,gasoline,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2006,Energy - Stationary combustion,lpg,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2006,Energy - Stationary combustion,fuel_oil,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2006,Energy - Stationary combustion,coal,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2006,IPPU - Cement,cement_clinker,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2006,IPPU - Refrigerants,r410a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2006,IPPU - Refrigerants,r134a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2006,IPPU - Refrigerants,r32,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2006,IPPU - Refrigerants,r22,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2006,IPPU - Industrial gases,sf6,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2006,Waste,landfill,CO2e,pending,,"Requires Egypt-specific waste composition and MCF/DOC parameters (methodology-based, not a single factor). No verified source loaded yet.",2026-11-03,system-audit
+EG,2006,Waste,incineration,CO2e,pending,,Requires waste-type-specific parameters; no verified Egyptian factor loaded yet.,2026-11-03,system-audit
+EG,2006,Water,wastewater,CO2e,pending,,Requires plant-specific influent/effluent data and Egypt-specific methane correction factors; no verified factor loaded yet.,2026-11-03,system-audit
+EG,2006,Transport,freight_road,CO2e,pending,,No verified Egyptian tonne-km factor loaded yet; use fuel-based calculation for own fleet.,2026-11-03,system-audit
+EG,2006,Agriculture,enteric_fermentation,CO2e,pending,,Requires livestock population and IPCC Tier 1/2 Egypt parameters; not loaded.,2026-11-03,system-audit
+EG,2006,AFOLU,forestry,CO2e,pending,,Requires land-use change data and methodology; not loaded.,2026-11-03,system-audit
+EG,2007,Energy - Power generation,grid_consumption,CO2e,pending,,No verified consumption-based national grid factor is published as a single figure. EEHC publishes generation-side thermal intensity only. Requires a documented derivation or a verified Egypt-specific source (e.g. IEA/Ember) before it may be used.,2026-11-03,system-audit
+EG,2007,Energy - Power generation,thermal_generation_intensity,CO2e,pending,EG-EEHC-AR-2023-24,EEHC annual report for this year has not been inspected in this build; the FY2023/24 figure must not be reused for earlier years.,2026-11-03,system-audit
+EG,2007,Energy - Stationary combustion,diesel,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2007,Energy - Stationary combustion,natural_gas,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2007,Energy - Stationary combustion,gasoline,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2007,Energy - Stationary combustion,lpg,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2007,Energy - Stationary combustion,fuel_oil,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2007,Energy - Stationary combustion,coal,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2007,IPPU - Cement,cement_clinker,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2007,IPPU - Refrigerants,r410a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2007,IPPU - Refrigerants,r134a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2007,IPPU - Refrigerants,r32,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2007,IPPU - Refrigerants,r22,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2007,IPPU - Industrial gases,sf6,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2007,Waste,landfill,CO2e,pending,,"Requires Egypt-specific waste composition and MCF/DOC parameters (methodology-based, not a single factor). No verified source loaded yet.",2026-11-03,system-audit
+EG,2007,Waste,incineration,CO2e,pending,,Requires waste-type-specific parameters; no verified Egyptian factor loaded yet.,2026-11-03,system-audit
+EG,2007,Water,wastewater,CO2e,pending,,Requires plant-specific influent/effluent data and Egypt-specific methane correction factors; no verified factor loaded yet.,2026-11-03,system-audit
+EG,2007,Transport,freight_road,CO2e,pending,,No verified Egyptian tonne-km factor loaded yet; use fuel-based calculation for own fleet.,2026-11-03,system-audit
+EG,2007,Agriculture,enteric_fermentation,CO2e,pending,,Requires livestock population and IPCC Tier 1/2 Egypt parameters; not loaded.,2026-11-03,system-audit
+EG,2007,AFOLU,forestry,CO2e,pending,,Requires land-use change data and methodology; not loaded.,2026-11-03,system-audit
+EG,2008,Energy - Power generation,grid_consumption,CO2e,pending,,No verified consumption-based national grid factor is published as a single figure. EEHC publishes generation-side thermal intensity only. Requires a documented derivation or a verified Egypt-specific source (e.g. IEA/Ember) before it may be used.,2026-11-03,system-audit
+EG,2008,Energy - Power generation,thermal_generation_intensity,CO2e,pending,EG-EEHC-AR-2023-24,EEHC annual report for this year has not been inspected in this build; the FY2023/24 figure must not be reused for earlier years.,2026-11-03,system-audit
+EG,2008,Energy - Stationary combustion,diesel,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2008,Energy - Stationary combustion,natural_gas,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2008,Energy - Stationary combustion,gasoline,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2008,Energy - Stationary combustion,lpg,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2008,Energy - Stationary combustion,fuel_oil,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2008,Energy - Stationary combustion,coal,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2008,IPPU - Cement,cement_clinker,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2008,IPPU - Refrigerants,r410a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2008,IPPU - Refrigerants,r134a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2008,IPPU - Refrigerants,r32,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2008,IPPU - Refrigerants,r22,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2008,IPPU - Industrial gases,sf6,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2008,Waste,landfill,CO2e,pending,,"Requires Egypt-specific waste composition and MCF/DOC parameters (methodology-based, not a single factor). No verified source loaded yet.",2026-11-03,system-audit
+EG,2008,Waste,incineration,CO2e,pending,,Requires waste-type-specific parameters; no verified Egyptian factor loaded yet.,2026-11-03,system-audit
+EG,2008,Water,wastewater,CO2e,pending,,Requires plant-specific influent/effluent data and Egypt-specific methane correction factors; no verified factor loaded yet.,2026-11-03,system-audit
+EG,2008,Transport,freight_road,CO2e,pending,,No verified Egyptian tonne-km factor loaded yet; use fuel-based calculation for own fleet.,2026-11-03,system-audit
+EG,2008,Agriculture,enteric_fermentation,CO2e,pending,,Requires livestock population and IPCC Tier 1/2 Egypt parameters; not loaded.,2026-11-03,system-audit
+EG,2008,AFOLU,forestry,CO2e,pending,,Requires land-use change data and methodology; not loaded.,2026-11-03,system-audit
+EG,2009,Energy - Power generation,grid_consumption,CO2e,pending,,No verified consumption-based national grid factor is published as a single figure. EEHC publishes generation-side thermal intensity only. Requires a documented derivation or a verified Egypt-specific source (e.g. IEA/Ember) before it may be used.,2026-11-03,system-audit
+EG,2009,Energy - Power generation,thermal_generation_intensity,CO2e,pending,EG-EEHC-AR-2023-24,EEHC annual report for this year has not been inspected in this build; the FY2023/24 figure must not be reused for earlier years.,2026-11-03,system-audit
+EG,2009,Energy - Stationary combustion,diesel,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2009,Energy - Stationary combustion,natural_gas,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2009,Energy - Stationary combustion,gasoline,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2009,Energy - Stationary combustion,lpg,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2009,Energy - Stationary combustion,fuel_oil,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2009,Energy - Stationary combustion,coal,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2009,IPPU - Cement,cement_clinker,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2009,IPPU - Refrigerants,r410a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2009,IPPU - Refrigerants,r134a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2009,IPPU - Refrigerants,r32,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2009,IPPU - Refrigerants,r22,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2009,IPPU - Industrial gases,sf6,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2009,Waste,landfill,CO2e,pending,,"Requires Egypt-specific waste composition and MCF/DOC parameters (methodology-based, not a single factor). No verified source loaded yet.",2026-11-03,system-audit
+EG,2009,Waste,incineration,CO2e,pending,,Requires waste-type-specific parameters; no verified Egyptian factor loaded yet.,2026-11-03,system-audit
+EG,2009,Water,wastewater,CO2e,pending,,Requires plant-specific influent/effluent data and Egypt-specific methane correction factors; no verified factor loaded yet.,2026-11-03,system-audit
+EG,2009,Transport,freight_road,CO2e,pending,,No verified Egyptian tonne-km factor loaded yet; use fuel-based calculation for own fleet.,2026-11-03,system-audit
+EG,2009,Agriculture,enteric_fermentation,CO2e,pending,,Requires livestock population and IPCC Tier 1/2 Egypt parameters; not loaded.,2026-11-03,system-audit
+EG,2009,AFOLU,forestry,CO2e,pending,,Requires land-use change data and methodology; not loaded.,2026-11-03,system-audit
+EG,2010,Energy - Power generation,grid_consumption,CO2e,pending,,No verified consumption-based national grid factor is published as a single figure. EEHC publishes generation-side thermal intensity only. Requires a documented derivation or a verified Egypt-specific source (e.g. IEA/Ember) before it may be used.,2026-11-03,system-audit
+EG,2010,Energy - Power generation,thermal_generation_intensity,CO2e,pending,EG-EEHC-AR-2023-24,EEHC annual report for this year has not been inspected in this build; the FY2023/24 figure must not be reused for earlier years.,2026-11-03,system-audit
+EG,2010,Energy - Stationary combustion,diesel,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2010,Energy - Stationary combustion,natural_gas,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2010,Energy - Stationary combustion,gasoline,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2010,Energy - Stationary combustion,lpg,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2010,Energy - Stationary combustion,fuel_oil,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2010,Energy - Stationary combustion,coal,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2010,IPPU - Cement,cement_clinker,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2010,IPPU - Refrigerants,r410a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2010,IPPU - Refrigerants,r134a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2010,IPPU - Refrigerants,r32,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2010,IPPU - Refrigerants,r22,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2010,IPPU - Industrial gases,sf6,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2010,Waste,landfill,CO2e,pending,,"Requires Egypt-specific waste composition and MCF/DOC parameters (methodology-based, not a single factor). No verified source loaded yet.",2026-11-03,system-audit
+EG,2010,Waste,incineration,CO2e,pending,,Requires waste-type-specific parameters; no verified Egyptian factor loaded yet.,2026-11-03,system-audit
+EG,2010,Water,wastewater,CO2e,pending,,Requires plant-specific influent/effluent data and Egypt-specific methane correction factors; no verified factor loaded yet.,2026-11-03,system-audit
+EG,2010,Transport,freight_road,CO2e,pending,,No verified Egyptian tonne-km factor loaded yet; use fuel-based calculation for own fleet.,2026-11-03,system-audit
+EG,2010,Agriculture,enteric_fermentation,CO2e,pending,,Requires livestock population and IPCC Tier 1/2 Egypt parameters; not loaded.,2026-11-03,system-audit
+EG,2010,AFOLU,forestry,CO2e,pending,,Requires land-use change data and methodology; not loaded.,2026-11-03,system-audit
+EG,2011,Energy - Power generation,grid_consumption,CO2e,pending,,No verified consumption-based national grid factor is published as a single figure. EEHC publishes generation-side thermal intensity only. Requires a documented derivation or a verified Egypt-specific source (e.g. IEA/Ember) before it may be used.,2026-11-03,system-audit
+EG,2011,Energy - Power generation,thermal_generation_intensity,CO2e,pending,EG-EEHC-AR-2023-24,EEHC annual report for this year has not been inspected in this build; the FY2023/24 figure must not be reused for earlier years.,2026-11-03,system-audit
+EG,2011,Energy - Stationary combustion,diesel,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2011,Energy - Stationary combustion,natural_gas,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2011,Energy - Stationary combustion,gasoline,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2011,Energy - Stationary combustion,lpg,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2011,Energy - Stationary combustion,fuel_oil,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2011,Energy - Stationary combustion,coal,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2011,IPPU - Cement,cement_clinker,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2011,IPPU - Refrigerants,r410a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2011,IPPU - Refrigerants,r134a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2011,IPPU - Refrigerants,r32,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2011,IPPU - Refrigerants,r22,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2011,IPPU - Industrial gases,sf6,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2011,Waste,landfill,CO2e,pending,,"Requires Egypt-specific waste composition and MCF/DOC parameters (methodology-based, not a single factor). No verified source loaded yet.",2026-11-03,system-audit
+EG,2011,Waste,incineration,CO2e,pending,,Requires waste-type-specific parameters; no verified Egyptian factor loaded yet.,2026-11-03,system-audit
+EG,2011,Water,wastewater,CO2e,pending,,Requires plant-specific influent/effluent data and Egypt-specific methane correction factors; no verified factor loaded yet.,2026-11-03,system-audit
+EG,2011,Transport,freight_road,CO2e,pending,,No verified Egyptian tonne-km factor loaded yet; use fuel-based calculation for own fleet.,2026-11-03,system-audit
+EG,2011,Agriculture,enteric_fermentation,CO2e,pending,,Requires livestock population and IPCC Tier 1/2 Egypt parameters; not loaded.,2026-11-03,system-audit
+EG,2011,AFOLU,forestry,CO2e,pending,,Requires land-use change data and methodology; not loaded.,2026-11-03,system-audit
+EG,2012,Energy - Power generation,grid_consumption,CO2e,pending,,No verified consumption-based national grid factor is published as a single figure. EEHC publishes generation-side thermal intensity only. Requires a documented derivation or a verified Egypt-specific source (e.g. IEA/Ember) before it may be used.,2026-11-03,system-audit
+EG,2012,Energy - Power generation,thermal_generation_intensity,CO2e,pending,EG-EEHC-AR-2023-24,EEHC annual report for this year has not been inspected in this build; the FY2023/24 figure must not be reused for earlier years.,2026-11-03,system-audit
+EG,2012,Energy - Stationary combustion,diesel,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2012,Energy - Stationary combustion,natural_gas,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2012,Energy - Stationary combustion,gasoline,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2012,Energy - Stationary combustion,lpg,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2012,Energy - Stationary combustion,fuel_oil,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2012,Energy - Stationary combustion,coal,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2012,IPPU - Cement,cement_clinker,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2012,IPPU - Refrigerants,r410a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2012,IPPU - Refrigerants,r134a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2012,IPPU - Refrigerants,r32,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2012,IPPU - Refrigerants,r22,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2012,IPPU - Industrial gases,sf6,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2012,Waste,landfill,CO2e,pending,,"Requires Egypt-specific waste composition and MCF/DOC parameters (methodology-based, not a single factor). No verified source loaded yet.",2026-11-03,system-audit
+EG,2012,Waste,incineration,CO2e,pending,,Requires waste-type-specific parameters; no verified Egyptian factor loaded yet.,2026-11-03,system-audit
+EG,2012,Water,wastewater,CO2e,pending,,Requires plant-specific influent/effluent data and Egypt-specific methane correction factors; no verified factor loaded yet.,2026-11-03,system-audit
+EG,2012,Transport,freight_road,CO2e,pending,,No verified Egyptian tonne-km factor loaded yet; use fuel-based calculation for own fleet.,2026-11-03,system-audit
+EG,2012,Agriculture,enteric_fermentation,CO2e,pending,,Requires livestock population and IPCC Tier 1/2 Egypt parameters; not loaded.,2026-11-03,system-audit
+EG,2012,AFOLU,forestry,CO2e,pending,,Requires land-use change data and methodology; not loaded.,2026-11-03,system-audit
+EG,2013,Energy - Power generation,grid_consumption,CO2e,pending,,No verified consumption-based national grid factor is published as a single figure. EEHC publishes generation-side thermal intensity only. Requires a documented derivation or a verified Egypt-specific source (e.g. IEA/Ember) before it may be used.,2026-11-03,system-audit
+EG,2013,Energy - Power generation,thermal_generation_intensity,CO2e,pending,EG-EEHC-AR-2023-24,EEHC annual report for this year has not been inspected in this build; the FY2023/24 figure must not be reused for earlier years.,2026-11-03,system-audit
+EG,2013,Energy - Stationary combustion,diesel,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2013,Energy - Stationary combustion,natural_gas,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2013,Energy - Stationary combustion,gasoline,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2013,Energy - Stationary combustion,lpg,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2013,Energy - Stationary combustion,fuel_oil,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2013,Energy - Stationary combustion,coal,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2013,IPPU - Cement,cement_clinker,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2013,IPPU - Refrigerants,r410a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2013,IPPU - Refrigerants,r134a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2013,IPPU - Refrigerants,r32,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2013,IPPU - Refrigerants,r22,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2013,IPPU - Industrial gases,sf6,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2013,Waste,landfill,CO2e,pending,,"Requires Egypt-specific waste composition and MCF/DOC parameters (methodology-based, not a single factor). No verified source loaded yet.",2026-11-03,system-audit
+EG,2013,Waste,incineration,CO2e,pending,,Requires waste-type-specific parameters; no verified Egyptian factor loaded yet.,2026-11-03,system-audit
+EG,2013,Water,wastewater,CO2e,pending,,Requires plant-specific influent/effluent data and Egypt-specific methane correction factors; no verified factor loaded yet.,2026-11-03,system-audit
+EG,2013,Transport,freight_road,CO2e,pending,,No verified Egyptian tonne-km factor loaded yet; use fuel-based calculation for own fleet.,2026-11-03,system-audit
+EG,2013,Agriculture,enteric_fermentation,CO2e,pending,,Requires livestock population and IPCC Tier 1/2 Egypt parameters; not loaded.,2026-11-03,system-audit
+EG,2013,AFOLU,forestry,CO2e,pending,,Requires land-use change data and methodology; not loaded.,2026-11-03,system-audit
+EG,2014,Energy - Power generation,grid_consumption,CO2e,pending,,No verified consumption-based national grid factor is published as a single figure. EEHC publishes generation-side thermal intensity only. Requires a documented derivation or a verified Egypt-specific source (e.g. IEA/Ember) before it may be used.,2026-11-03,system-audit
+EG,2014,Energy - Power generation,thermal_generation_intensity,CO2e,pending,EG-EEHC-AR-2023-24,EEHC annual report for this year has not been inspected in this build; the FY2023/24 figure must not be reused for earlier years.,2026-11-03,system-audit
+EG,2014,Energy - Stationary combustion,diesel,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2014,Energy - Stationary combustion,natural_gas,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2014,Energy - Stationary combustion,gasoline,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2014,Energy - Stationary combustion,lpg,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2014,Energy - Stationary combustion,fuel_oil,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2014,Energy - Stationary combustion,coal,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2014,IPPU - Cement,cement_clinker,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2014,IPPU - Refrigerants,r410a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2014,IPPU - Refrigerants,r134a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2014,IPPU - Refrigerants,r32,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2014,IPPU - Refrigerants,r22,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2014,IPPU - Industrial gases,sf6,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2014,Waste,landfill,CO2e,pending,,"Requires Egypt-specific waste composition and MCF/DOC parameters (methodology-based, not a single factor). No verified source loaded yet.",2026-11-03,system-audit
+EG,2014,Waste,incineration,CO2e,pending,,Requires waste-type-specific parameters; no verified Egyptian factor loaded yet.,2026-11-03,system-audit
+EG,2014,Water,wastewater,CO2e,pending,,Requires plant-specific influent/effluent data and Egypt-specific methane correction factors; no verified factor loaded yet.,2026-11-03,system-audit
+EG,2014,Transport,freight_road,CO2e,pending,,No verified Egyptian tonne-km factor loaded yet; use fuel-based calculation for own fleet.,2026-11-03,system-audit
+EG,2014,Agriculture,enteric_fermentation,CO2e,pending,,Requires livestock population and IPCC Tier 1/2 Egypt parameters; not loaded.,2026-11-03,system-audit
+EG,2014,AFOLU,forestry,CO2e,pending,,Requires land-use change data and methodology; not loaded.,2026-11-03,system-audit
+EG,2015,Energy - Power generation,grid_consumption,CO2e,pending,,No verified consumption-based national grid factor is published as a single figure. EEHC publishes generation-side thermal intensity only. Requires a documented derivation or a verified Egypt-specific source (e.g. IEA/Ember) before it may be used.,2026-11-03,system-audit
+EG,2015,Energy - Power generation,thermal_generation_intensity,CO2e,pending,EG-EEHC-AR-2023-24,EEHC annual report for this year has not been inspected in this build; the FY2023/24 figure must not be reused for earlier years.,2026-11-03,system-audit
+EG,2015,Energy - Stationary combustion,diesel,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2015,Energy - Stationary combustion,natural_gas,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2015,Energy - Stationary combustion,gasoline,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2015,Energy - Stationary combustion,lpg,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2015,Energy - Stationary combustion,fuel_oil,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2015,Energy - Stationary combustion,coal,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2015,IPPU - Cement,cement_clinker,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2015,IPPU - Refrigerants,r410a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2015,IPPU - Refrigerants,r134a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2015,IPPU - Refrigerants,r32,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2015,IPPU - Refrigerants,r22,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2015,IPPU - Industrial gases,sf6,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2015,Waste,landfill,CO2e,pending,,"Requires Egypt-specific waste composition and MCF/DOC parameters (methodology-based, not a single factor). No verified source loaded yet.",2026-11-03,system-audit
+EG,2015,Waste,incineration,CO2e,pending,,Requires waste-type-specific parameters; no verified Egyptian factor loaded yet.,2026-11-03,system-audit
+EG,2015,Water,wastewater,CO2e,pending,,Requires plant-specific influent/effluent data and Egypt-specific methane correction factors; no verified factor loaded yet.,2026-11-03,system-audit
+EG,2015,Transport,freight_road,CO2e,pending,,No verified Egyptian tonne-km factor loaded yet; use fuel-based calculation for own fleet.,2026-11-03,system-audit
+EG,2015,Agriculture,enteric_fermentation,CO2e,pending,,Requires livestock population and IPCC Tier 1/2 Egypt parameters; not loaded.,2026-11-03,system-audit
+EG,2015,AFOLU,forestry,CO2e,pending,,Requires land-use change data and methodology; not loaded.,2026-11-03,system-audit
+EG,2016,Energy - Power generation,grid_consumption,CO2e,pending,,No verified consumption-based national grid factor is published as a single figure. EEHC publishes generation-side thermal intensity only. Requires a documented derivation or a verified Egypt-specific source (e.g. IEA/Ember) before it may be used.,2026-11-03,system-audit
+EG,2016,Energy - Power generation,thermal_generation_intensity,CO2e,pending,EG-EEHC-AR-2023-24,EEHC annual report for this year has not been inspected in this build; the FY2023/24 figure must not be reused for earlier years.,2026-11-03,system-audit
+EG,2016,Energy - Stationary combustion,diesel,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2016,Energy - Stationary combustion,natural_gas,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2016,Energy - Stationary combustion,gasoline,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2016,Energy - Stationary combustion,lpg,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2016,Energy - Stationary combustion,fuel_oil,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2016,Energy - Stationary combustion,coal,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2016,IPPU - Cement,cement_clinker,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2016,IPPU - Refrigerants,r410a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2016,IPPU - Refrigerants,r134a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2016,IPPU - Refrigerants,r32,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2016,IPPU - Refrigerants,r22,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2016,IPPU - Industrial gases,sf6,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2016,Waste,landfill,CO2e,pending,,"Requires Egypt-specific waste composition and MCF/DOC parameters (methodology-based, not a single factor). No verified source loaded yet.",2026-11-03,system-audit
+EG,2016,Waste,incineration,CO2e,pending,,Requires waste-type-specific parameters; no verified Egyptian factor loaded yet.,2026-11-03,system-audit
+EG,2016,Water,wastewater,CO2e,pending,,Requires plant-specific influent/effluent data and Egypt-specific methane correction factors; no verified factor loaded yet.,2026-11-03,system-audit
+EG,2016,Transport,freight_road,CO2e,pending,,No verified Egyptian tonne-km factor loaded yet; use fuel-based calculation for own fleet.,2026-11-03,system-audit
+EG,2016,Agriculture,enteric_fermentation,CO2e,pending,,Requires livestock population and IPCC Tier 1/2 Egypt parameters; not loaded.,2026-11-03,system-audit
+EG,2016,AFOLU,forestry,CO2e,pending,,Requires land-use change data and methodology; not loaded.,2026-11-03,system-audit
+EG,2017,Energy - Power generation,grid_consumption,CO2e,pending,,No verified consumption-based national grid factor is published as a single figure. EEHC publishes generation-side thermal intensity only. Requires a documented derivation or a verified Egypt-specific source (e.g. IEA/Ember) before it may be used.,2026-11-03,system-audit
+EG,2017,Energy - Power generation,thermal_generation_intensity,CO2e,pending,EG-EEHC-AR-2023-24,EEHC annual report for this year has not been inspected in this build; the FY2023/24 figure must not be reused for earlier years.,2026-11-03,system-audit
+EG,2017,Energy - Stationary combustion,diesel,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2017,Energy - Stationary combustion,natural_gas,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2017,Energy - Stationary combustion,gasoline,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2017,Energy - Stationary combustion,lpg,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2017,Energy - Stationary combustion,fuel_oil,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2017,Energy - Stationary combustion,coal,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2017,IPPU - Cement,cement_clinker,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2017,IPPU - Refrigerants,r410a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2017,IPPU - Refrigerants,r134a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2017,IPPU - Refrigerants,r32,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2017,IPPU - Refrigerants,r22,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2017,IPPU - Industrial gases,sf6,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2017,Waste,landfill,CO2e,pending,,"Requires Egypt-specific waste composition and MCF/DOC parameters (methodology-based, not a single factor). No verified source loaded yet.",2026-11-03,system-audit
+EG,2017,Waste,incineration,CO2e,pending,,Requires waste-type-specific parameters; no verified Egyptian factor loaded yet.,2026-11-03,system-audit
+EG,2017,Water,wastewater,CO2e,pending,,Requires plant-specific influent/effluent data and Egypt-specific methane correction factors; no verified factor loaded yet.,2026-11-03,system-audit
+EG,2017,Transport,freight_road,CO2e,pending,,No verified Egyptian tonne-km factor loaded yet; use fuel-based calculation for own fleet.,2026-11-03,system-audit
+EG,2017,Agriculture,enteric_fermentation,CO2e,pending,,Requires livestock population and IPCC Tier 1/2 Egypt parameters; not loaded.,2026-11-03,system-audit
+EG,2017,AFOLU,forestry,CO2e,pending,,Requires land-use change data and methodology; not loaded.,2026-11-03,system-audit
+EG,2018,Energy - Power generation,grid_consumption,CO2e,pending,,No verified consumption-based national grid factor is published as a single figure. EEHC publishes generation-side thermal intensity only. Requires a documented derivation or a verified Egypt-specific source (e.g. IEA/Ember) before it may be used.,2026-11-03,system-audit
+EG,2018,Energy - Power generation,thermal_generation_intensity,CO2e,pending,EG-EEHC-AR-2023-24,EEHC annual report for this year has not been inspected in this build; the FY2023/24 figure must not be reused for earlier years.,2026-11-03,system-audit
+EG,2018,Energy - Stationary combustion,diesel,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2018,Energy - Stationary combustion,natural_gas,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2018,Energy - Stationary combustion,gasoline,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2018,Energy - Stationary combustion,lpg,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2018,Energy - Stationary combustion,fuel_oil,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2018,Energy - Stationary combustion,coal,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2018,IPPU - Cement,cement_clinker,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2018,IPPU - Refrigerants,r410a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2018,IPPU - Refrigerants,r134a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2018,IPPU - Refrigerants,r32,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2018,IPPU - Refrigerants,r22,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2018,IPPU - Industrial gases,sf6,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2018,Waste,landfill,CO2e,pending,,"Requires Egypt-specific waste composition and MCF/DOC parameters (methodology-based, not a single factor). No verified source loaded yet.",2026-11-03,system-audit
+EG,2018,Waste,incineration,CO2e,pending,,Requires waste-type-specific parameters; no verified Egyptian factor loaded yet.,2026-11-03,system-audit
+EG,2018,Water,wastewater,CO2e,pending,,Requires plant-specific influent/effluent data and Egypt-specific methane correction factors; no verified factor loaded yet.,2026-11-03,system-audit
+EG,2018,Transport,freight_road,CO2e,pending,,No verified Egyptian tonne-km factor loaded yet; use fuel-based calculation for own fleet.,2026-11-03,system-audit
+EG,2018,Agriculture,enteric_fermentation,CO2e,pending,,Requires livestock population and IPCC Tier 1/2 Egypt parameters; not loaded.,2026-11-03,system-audit
+EG,2018,AFOLU,forestry,CO2e,pending,,Requires land-use change data and methodology; not loaded.,2026-11-03,system-audit
+EG,2019,Energy - Power generation,grid_consumption,CO2e,pending,,No verified consumption-based national grid factor is published as a single figure. EEHC publishes generation-side thermal intensity only. Requires a documented derivation or a verified Egypt-specific source (e.g. IEA/Ember) before it may be used.,2026-11-03,system-audit
+EG,2019,Energy - Power generation,thermal_generation_intensity,CO2e,pending,EG-EEHC-AR-2023-24,EEHC annual report for this year has not been inspected in this build; the FY2023/24 figure must not be reused for earlier years.,2026-11-03,system-audit
+EG,2019,Energy - Stationary combustion,diesel,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2019,Energy - Stationary combustion,natural_gas,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2019,Energy - Stationary combustion,gasoline,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2019,Energy - Stationary combustion,lpg,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2019,Energy - Stationary combustion,fuel_oil,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2019,Energy - Stationary combustion,coal,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2019,IPPU - Cement,cement_clinker,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2019,IPPU - Refrigerants,r410a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2019,IPPU - Refrigerants,r134a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2019,IPPU - Refrigerants,r32,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2019,IPPU - Refrigerants,r22,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2019,IPPU - Industrial gases,sf6,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2019,Waste,landfill,CO2e,pending,,"Requires Egypt-specific waste composition and MCF/DOC parameters (methodology-based, not a single factor). No verified source loaded yet.",2026-11-03,system-audit
+EG,2019,Waste,incineration,CO2e,pending,,Requires waste-type-specific parameters; no verified Egyptian factor loaded yet.,2026-11-03,system-audit
+EG,2019,Water,wastewater,CO2e,pending,,Requires plant-specific influent/effluent data and Egypt-specific methane correction factors; no verified factor loaded yet.,2026-11-03,system-audit
+EG,2019,Transport,freight_road,CO2e,pending,,No verified Egyptian tonne-km factor loaded yet; use fuel-based calculation for own fleet.,2026-11-03,system-audit
+EG,2019,Agriculture,enteric_fermentation,CO2e,pending,,Requires livestock population and IPCC Tier 1/2 Egypt parameters; not loaded.,2026-11-03,system-audit
+EG,2019,AFOLU,forestry,CO2e,pending,,Requires land-use change data and methodology; not loaded.,2026-11-03,system-audit
+EG,2020,Energy - Power generation,grid_consumption,CO2e,pending,,No verified consumption-based national grid factor is published as a single figure. EEHC publishes generation-side thermal intensity only. Requires a documented derivation or a verified Egypt-specific source (e.g. IEA/Ember) before it may be used.,2026-11-03,system-audit
+EG,2020,Energy - Power generation,thermal_generation_intensity,CO2e,pending,EG-EEHC-AR-2023-24,EEHC annual report for this year has not been inspected in this build; the FY2023/24 figure must not be reused for earlier years.,2026-11-03,system-audit
+EG,2020,Energy - Stationary combustion,diesel,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2020,Energy - Stationary combustion,natural_gas,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2020,Energy - Stationary combustion,gasoline,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2020,Energy - Stationary combustion,lpg,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2020,Energy - Stationary combustion,fuel_oil,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2020,Energy - Stationary combustion,coal,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2020,IPPU - Cement,cement_clinker,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2020,IPPU - Refrigerants,r410a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2020,IPPU - Refrigerants,r134a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2020,IPPU - Refrigerants,r32,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2020,IPPU - Refrigerants,r22,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2020,IPPU - Industrial gases,sf6,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2020,Waste,landfill,CO2e,pending,,"Requires Egypt-specific waste composition and MCF/DOC parameters (methodology-based, not a single factor). No verified source loaded yet.",2026-11-03,system-audit
+EG,2020,Waste,incineration,CO2e,pending,,Requires waste-type-specific parameters; no verified Egyptian factor loaded yet.,2026-11-03,system-audit
+EG,2020,Water,wastewater,CO2e,pending,,Requires plant-specific influent/effluent data and Egypt-specific methane correction factors; no verified factor loaded yet.,2026-11-03,system-audit
+EG,2020,Transport,freight_road,CO2e,pending,,No verified Egyptian tonne-km factor loaded yet; use fuel-based calculation for own fleet.,2026-11-03,system-audit
+EG,2020,Agriculture,enteric_fermentation,CO2e,pending,,Requires livestock population and IPCC Tier 1/2 Egypt parameters; not loaded.,2026-11-03,system-audit
+EG,2020,AFOLU,forestry,CO2e,pending,,Requires land-use change data and methodology; not loaded.,2026-11-03,system-audit
+EG,2021,Energy - Power generation,grid_consumption,CO2e,pending,,No verified consumption-based national grid factor is published as a single figure. EEHC publishes generation-side thermal intensity only. Requires a documented derivation or a verified Egypt-specific source (e.g. IEA/Ember) before it may be used.,2026-11-03,system-audit
+EG,2021,Energy - Power generation,thermal_generation_intensity,CO2e,pending,EG-EEHC-AR-2023-24,EEHC annual report for this year has not been inspected in this build; the FY2023/24 figure must not be reused for earlier years.,2026-11-03,system-audit
+EG,2021,Energy - Stationary combustion,diesel,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2021,Energy - Stationary combustion,natural_gas,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2021,Energy - Stationary combustion,gasoline,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2021,Energy - Stationary combustion,lpg,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2021,Energy - Stationary combustion,fuel_oil,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2021,Energy - Stationary combustion,coal,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2021,IPPU - Cement,cement_clinker,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2021,IPPU - Refrigerants,r410a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2021,IPPU - Refrigerants,r134a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2021,IPPU - Refrigerants,r32,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2021,IPPU - Refrigerants,r22,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2021,IPPU - Industrial gases,sf6,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2021,Waste,landfill,CO2e,pending,,"Requires Egypt-specific waste composition and MCF/DOC parameters (methodology-based, not a single factor). No verified source loaded yet.",2026-11-03,system-audit
+EG,2021,Waste,incineration,CO2e,pending,,Requires waste-type-specific parameters; no verified Egyptian factor loaded yet.,2026-11-03,system-audit
+EG,2021,Water,wastewater,CO2e,pending,,Requires plant-specific influent/effluent data and Egypt-specific methane correction factors; no verified factor loaded yet.,2026-11-03,system-audit
+EG,2021,Transport,freight_road,CO2e,pending,,No verified Egyptian tonne-km factor loaded yet; use fuel-based calculation for own fleet.,2026-11-03,system-audit
+EG,2021,Agriculture,enteric_fermentation,CO2e,pending,,Requires livestock population and IPCC Tier 1/2 Egypt parameters; not loaded.,2026-11-03,system-audit
+EG,2021,AFOLU,forestry,CO2e,pending,,Requires land-use change data and methodology; not loaded.,2026-11-03,system-audit
+EG,2022,Energy - Power generation,grid_consumption,CO2e,pending,,No verified consumption-based national grid factor is published as a single figure. EEHC publishes generation-side thermal intensity only. Requires a documented derivation or a verified Egypt-specific source (e.g. IEA/Ember) before it may be used.,2026-11-03,system-audit
+EG,2022,Energy - Power generation,thermal_generation_intensity,CO2e,pending,EG-EEHC-AR-2023-24,EEHC annual report for this year has not been inspected in this build; the FY2023/24 figure must not be reused for earlier years.,2026-11-03,system-audit
+EG,2022,Energy - Stationary combustion,diesel,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2022,Energy - Stationary combustion,natural_gas,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2022,Energy - Stationary combustion,gasoline,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2022,Energy - Stationary combustion,lpg,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2022,Energy - Stationary combustion,fuel_oil,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2022,Energy - Stationary combustion,coal,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2022,IPPU - Cement,cement_clinker,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2022,IPPU - Refrigerants,r410a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2022,IPPU - Refrigerants,r134a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2022,IPPU - Refrigerants,r32,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2022,IPPU - Refrigerants,r22,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2022,IPPU - Industrial gases,sf6,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2022,Waste,landfill,CO2e,pending,,"Requires Egypt-specific waste composition and MCF/DOC parameters (methodology-based, not a single factor). No verified source loaded yet.",2026-11-03,system-audit
+EG,2022,Waste,incineration,CO2e,pending,,Requires waste-type-specific parameters; no verified Egyptian factor loaded yet.,2026-11-03,system-audit
+EG,2022,Water,wastewater,CO2e,pending,,Requires plant-specific influent/effluent data and Egypt-specific methane correction factors; no verified factor loaded yet.,2026-11-03,system-audit
+EG,2022,Transport,freight_road,CO2e,pending,,No verified Egyptian tonne-km factor loaded yet; use fuel-based calculation for own fleet.,2026-11-03,system-audit
+EG,2022,Agriculture,enteric_fermentation,CO2e,pending,,Requires livestock population and IPCC Tier 1/2 Egypt parameters; not loaded.,2026-11-03,system-audit
+EG,2022,AFOLU,forestry,CO2e,pending,,Requires land-use change data and methodology; not loaded.,2026-11-03,system-audit
+EG,2023,Energy - Power generation,grid_consumption,CO2e,pending,,No verified consumption-based national grid factor is published as a single figure. EEHC publishes generation-side thermal intensity only. Requires a documented derivation or a verified Egypt-specific source (e.g. IEA/Ember) before it may be used.,2026-11-03,system-audit
+EG,2023,Energy - Power generation,thermal_generation_intensity,CO2e,pending,EG-EEHC-AR-2023-24,EEHC annual report for this year has not been inspected in this build; the FY2023/24 figure must not be reused for earlier years.,2026-11-03,system-audit
+EG,2023,Energy - Stationary combustion,diesel,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2023,Energy - Stationary combustion,natural_gas,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2023,Energy - Stationary combustion,gasoline,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2023,Energy - Stationary combustion,lpg,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2023,Energy - Stationary combustion,fuel_oil,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2023,Energy - Stationary combustion,coal,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2023,IPPU - Cement,cement_clinker,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2023,IPPU - Refrigerants,r410a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2023,IPPU - Refrigerants,r134a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2023,IPPU - Refrigerants,r32,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2023,IPPU - Refrigerants,r22,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2023,IPPU - Industrial gases,sf6,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2023,Waste,landfill,CO2e,pending,,"Requires Egypt-specific waste composition and MCF/DOC parameters (methodology-based, not a single factor). No verified source loaded yet.",2026-11-03,system-audit
+EG,2023,Waste,incineration,CO2e,pending,,Requires waste-type-specific parameters; no verified Egyptian factor loaded yet.,2026-11-03,system-audit
+EG,2023,Water,wastewater,CO2e,pending,,Requires plant-specific influent/effluent data and Egypt-specific methane correction factors; no verified factor loaded yet.,2026-11-03,system-audit
+EG,2023,Transport,freight_road,CO2e,pending,,No verified Egyptian tonne-km factor loaded yet; use fuel-based calculation for own fleet.,2026-11-03,system-audit
+EG,2023,Agriculture,enteric_fermentation,CO2e,pending,,Requires livestock population and IPCC Tier 1/2 Egypt parameters; not loaded.,2026-11-03,system-audit
+EG,2023,AFOLU,forestry,CO2e,pending,,Requires land-use change data and methodology; not loaded.,2026-11-03,system-audit
+EG,2024,Energy - Power generation,grid_consumption,CO2e,pending,,No verified consumption-based national grid factor is published as a single figure. EEHC publishes generation-side thermal intensity only. Requires a documented derivation or a verified Egypt-specific source (e.g. IEA/Ember) before it may be used.,2026-11-03,system-audit
+EG,2024,Energy - Power generation,thermal_generation_intensity,CO2e,available,EG-EEHC-AR-2023-24,,2026-11-03,system-audit
+EG,2024,Energy - Stationary combustion,diesel,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2024,Energy - Stationary combustion,natural_gas,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2024,Energy - Stationary combustion,gasoline,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2024,Energy - Stationary combustion,lpg,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2024,Energy - Stationary combustion,fuel_oil,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2024,Energy - Stationary combustion,coal,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2024,IPPU - Cement,cement_clinker,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2024,IPPU - Refrigerants,r410a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2024,IPPU - Refrigerants,r134a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2024,IPPU - Refrigerants,r32,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2024,IPPU - Refrigerants,r22,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2024,IPPU - Industrial gases,sf6,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2024,Waste,landfill,CO2e,pending,,"Requires Egypt-specific waste composition and MCF/DOC parameters (methodology-based, not a single factor). No verified source loaded yet.",2026-11-03,system-audit
+EG,2024,Waste,incineration,CO2e,pending,,Requires waste-type-specific parameters; no verified Egyptian factor loaded yet.,2026-11-03,system-audit
+EG,2024,Water,wastewater,CO2e,pending,,Requires plant-specific influent/effluent data and Egypt-specific methane correction factors; no verified factor loaded yet.,2026-11-03,system-audit
+EG,2024,Transport,freight_road,CO2e,pending,,No verified Egyptian tonne-km factor loaded yet; use fuel-based calculation for own fleet.,2026-11-03,system-audit
+EG,2024,Agriculture,enteric_fermentation,CO2e,pending,,Requires livestock population and IPCC Tier 1/2 Egypt parameters; not loaded.,2026-11-03,system-audit
+EG,2024,AFOLU,forestry,CO2e,pending,,Requires land-use change data and methodology; not loaded.,2026-11-03,system-audit
+EG,2025,Energy - Power generation,grid_consumption,CO2e,pending,,No verified consumption-based national grid factor is published as a single figure. EEHC publishes generation-side thermal intensity only. Requires a documented derivation or a verified Egypt-specific source (e.g. IEA/Ember) before it may be used.,2026-11-03,system-audit
+EG,2025,Energy - Power generation,thermal_generation_intensity,CO2e,pending,EG-EEHC-AR-2023-24,No published EEHC report has been verified for this reporting year yet (FY2024/25+). Do not treat FY2023/24 data as actual data for this year.,2026-11-03,system-audit
+EG,2025,Energy - Stationary combustion,diesel,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2025,Energy - Stationary combustion,natural_gas,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2025,Energy - Stationary combustion,gasoline,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2025,Energy - Stationary combustion,lpg,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2025,Energy - Stationary combustion,fuel_oil,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2025,Energy - Stationary combustion,coal,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2025,IPPU - Cement,cement_clinker,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2025,IPPU - Refrigerants,r410a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2025,IPPU - Refrigerants,r134a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2025,IPPU - Refrigerants,r32,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2025,IPPU - Refrigerants,r22,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2025,IPPU - Industrial gases,sf6,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2025,Waste,landfill,CO2e,pending,,"Requires Egypt-specific waste composition and MCF/DOC parameters (methodology-based, not a single factor). No verified source loaded yet.",2026-11-03,system-audit
+EG,2025,Waste,incineration,CO2e,pending,,Requires waste-type-specific parameters; no verified Egyptian factor loaded yet.,2026-11-03,system-audit
+EG,2025,Water,wastewater,CO2e,pending,,Requires plant-specific influent/effluent data and Egypt-specific methane correction factors; no verified factor loaded yet.,2026-11-03,system-audit
+EG,2025,Transport,freight_road,CO2e,pending,,No verified Egyptian tonne-km factor loaded yet; use fuel-based calculation for own fleet.,2026-11-03,system-audit
+EG,2025,Agriculture,enteric_fermentation,CO2e,pending,,Requires livestock population and IPCC Tier 1/2 Egypt parameters; not loaded.,2026-11-03,system-audit
+EG,2025,AFOLU,forestry,CO2e,pending,,Requires land-use change data and methodology; not loaded.,2026-11-03,system-audit
+EG,2026,Energy - Power generation,grid_consumption,CO2e,pending,,No verified consumption-based national grid factor is published as a single figure. EEHC publishes generation-side thermal intensity only. Requires a documented derivation or a verified Egypt-specific source (e.g. IEA/Ember) before it may be used.,2026-11-03,system-audit
+EG,2026,Energy - Power generation,thermal_generation_intensity,CO2e,pending,EG-EEHC-AR-2023-24,No published EEHC report has been verified for this reporting year yet (FY2024/25+). Do not treat FY2023/24 data as actual data for this year.,2026-11-03,system-audit
+EG,2026,Energy - Stationary combustion,diesel,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2026,Energy - Stationary combustion,natural_gas,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2026,Energy - Stationary combustion,gasoline,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2026,Energy - Stationary combustion,lpg,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2026,Energy - Stationary combustion,fuel_oil,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2026,Energy - Stationary combustion,coal,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2026,IPPU - Cement,cement_clinker,CO2e,international_default,IPCC-2006-GL,,2026-11-03,system-audit
+EG,2026,IPPU - Refrigerants,r410a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2026,IPPU - Refrigerants,r134a,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2026,IPPU - Refrigerants,r32,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2026,IPPU - Refrigerants,r22,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2026,IPPU - Industrial gases,sf6,CO2e,international_default,IPCC-AR5-GWP100,,2026-11-03,system-audit
+EG,2026,Waste,landfill,CO2e,pending,,"Requires Egypt-specific waste composition and MCF/DOC parameters (methodology-based, not a single factor). No verified source loaded yet.",2026-11-03,system-audit
+EG,2026,Waste,incineration,CO2e,pending,,Requires waste-type-specific parameters; no verified Egyptian factor loaded yet.,2026-11-03,system-audit
+EG,2026,Water,wastewater,CO2e,pending,,Requires plant-specific influent/effluent data and Egypt-specific methane correction factors; no verified factor loaded yet.,2026-11-03,system-audit
+EG,2026,Transport,freight_road,CO2e,pending,,No verified Egyptian tonne-km factor loaded yet; use fuel-based calculation for own fleet.,2026-11-03,system-audit
+EG,2026,Agriculture,enteric_fermentation,CO2e,pending,,Requires livestock population and IPCC Tier 1/2 Egypt parameters; not loaded.,2026-11-03,system-audit
+EG,2026,AFOLU,forestry,CO2e,pending,,Requires land-use change data and methodology; not loaded.,2026-11-03,system-audit

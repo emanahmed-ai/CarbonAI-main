@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+uploads/
+data/*.db
+backups/
+models/*.pkl
+models/*_meta.json
+frontend/node_modules/
+frontend/dist/
+frontend/*.tsbuildinfo 

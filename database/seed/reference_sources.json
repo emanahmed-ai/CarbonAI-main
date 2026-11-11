@@ -1,0 +1,139 @@
+[
+  {
+    "title": "GHG Protocol standards and guidance",
+    "url": "https://ghgprotocol.org/standards-guidance",
+    "scope": "international",
+    "review_status": "listed_by_user_NOT_REVIEWED",
+    "reachability": "not_checked (no network in build environment)",
+    "factors_loaded": 0
+  },
+  {
+    "title": "GHG Protocol Scope 3 Standard",
+    "url": "https://ghgprotocol.org/corporate-value-chain-scope-3-standard",
+    "scope": "international",
+    "review_status": "listed_by_user_NOT_REVIEWED",
+    "reachability": "not_checked (no network in build environment)",
+    "factors_loaded": 0
+  },
+  {
+    "title": "GHG Protocol calculation tools and guidance",
+    "url": "https://ghgptechassistance.zendesk.com/hc/en-us/categories/27448673565716-Calculation-Tools-and-Guidance",
+    "scope": "international",
+    "review_status": "listed_by_user_NOT_REVIEWED",
+    "reachability": "not_checked (no network in build environment)",
+    "factors_loaded": 0
+  },
+  {
+    "title": "IPCC Emission Factor Database",
+    "url": "https://www.ipcc-nggip.iges.or.jp/EFDB/main.php",
+    "scope": "international",
+    "review_status": "listed_by_user_NOT_REVIEWED",
+    "reachability": "not_checked (no network in build environment)",
+    "factors_loaded": 0
+  },
+  {
+    "title": "IPCC 2006 Guidelines",
+    "url": "https://www.ipcc-nggip.iges.or.jp/public/2006gl/",
+    "scope": "international",
+    "review_status": "listed_by_user_NOT_REVIEWED",
+    "reachability": "not_checked (no network in build environment)",
+    "factors_loaded": 0
+  },
+  {
+    "title": "IPCC 2019 Refinement",
+    "url": "https://www.ipcc-nggip.iges.or.jp/public/2019rf/",
+    "scope": "international",
+    "review_status": "listed_by_user_NOT_REVIEWED",
+    "reachability": "not_checked (no network in build environment)",
+    "factors_loaded": 0
+  },
+  {
+    "title": "UNFCCC Annex I inventory submissions",
+    "url": "https://unfccc.int/ghg-inventories-annex-i-parties/2026",
+    "scope": "international",
+    "review_status": "listed_by_user_NOT_REVIEWED",
+    "reachability": "not_checked (no network in build environment)",
+    "factors_loaded": 0
+  },
+  {
+    "title": "UNFCCC non-Annex I national communications",
+    "url": "https://www.unfccc.int/non-annex-I-NCs",
+    "scope": "international",
+    "review_status": "listed_by_user_NOT_REVIEWED",
+    "reachability": "not_checked (no network in build environment)",
+    "factors_loaded": 0
+  },
+  {
+    "title": "IEA Emissions Factors 2025",
+    "url": "https://www.iea.org/data-and-statistics/data-product/emissions-factors-2025",
+    "scope": "electricity (licence-restricted; do not bypass)",
+    "review_status": "listed_by_user_NOT_REVIEWED",
+    "reachability": "not_checked (no network in build environment)",
+    "factors_loaded": 0
+  },
+  {
+    "title": "IEA Emissions Factors Package",
+    "url": "https://www.iea.org/data-and-statistics/data-product/emissions-factors-package-subscription",
+    "scope": "electricity (subscription)",
+    "review_status": "listed_by_user_NOT_REVIEWED",
+    "reachability": "not_checked (no network in build environment)",
+    "factors_loaded": 0
+  },
+  {
+    "title": "EEA electricity emission intensity",
+    "url": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/",
+    "scope": "europe",
+    "review_status": "listed_by_user_NOT_REVIEWED",
+    "reachability": "not_checked (no network in build environment)",
+    "factors_loaded": 0
+  },
+  {
+    "title": "UK GHG conversion factors 2026",
+    "url": "https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2026",
+    "scope": "UK",
+    "review_status": "listed_by_user_NOT_REVIEWED",
+    "reachability": "not_checked (no network in build environment)",
+    "factors_loaded": 0
+  },
+  {
+    "title": "UK conversion-factor collection",
+    "url": "https://www.gov.uk/government/collections/government-conversion-factors-for-company-reporting",
+    "scope": "UK",
+    "review_status": "listed_by_user_NOT_REVIEWED",
+    "reachability": "not_checked (no network in build environment)",
+    "factors_loaded": 0
+  },
+  {
+    "title": "US EPA GHG Emission Factors Hub",
+    "url": "https://www.epa.gov/climateleadership/ghg-emission-factors-hub",
+    "scope": "US",
+    "review_status": "listed_by_user_NOT_REVIEWED",
+    "reachability": "not_checked (no network in build environment)",
+    "factors_loaded": 0
+  },
+  {
+    "title": "Egyptian Environmental Affairs Agency",
+    "url": "https://www.eeaa.gov.eg/",
+    "scope": "EG (homepage only - not proof of any factor)",
+    "review_status": "listed_by_user_NOT_REVIEWED",
+    "reachability": "not_checked (no network in build environment)",
+    "factors_loaded": 0
+  },
+  {
+    "title": "Measuring emissions: A guide for organisations: 2023 detailed guide (ME 1764)",
+    "url": null,
+    "scope": "NZ official national",
+    "review_status": "supplied_pdf_inspected",
+    "reachability": "n/a (local file)",
+    "factors_loaded": 37,
+    "note": "Tables 1, 3, 9 parsed; loaded as UNVERIFIED pending human review. Other tables (4-95) NOT yet imported."
+  },
+  {
+    "title": "KPMG Handbook: GHG emissions reporting (March 2024)",
+    "url": null,
+    "scope": "methodology guidance (US-oriented, GHG Protocol)",
+    "review_status": "supplied_pdf_inspected",
+    "factors_loaded": 0,
+    "note": "Contains no factor tables; use as methodology reference only. (c) KPMG LLP, all rights reserved."
+  }
+]

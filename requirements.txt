@@ -1,0 +1,18 @@
+# Runtime used by app.py + services (SQLite layer uses only the Python standard library)
+streamlit>=1.38
+pandas>=2.2
+openpyxl>=3.1
+plotly>=5.22
+reportlab>=4.0
+# Arabic text in PDF (shaping + right-to-left). Without them the Arabic PDF is disabled with a clear message.
+arabic-reshaper>=3.0
+python-bidi>=0.4.2
+pdfplumber>=0.11      # only for scripts/validate_reference_data.py and the PDF page test
+pytest>=8.0           # optional; scripts/run_tests.py falls back to unittest
+# Original target stack, NOT used by the current code (kept for a future PostgreSQL migration; see docs/DB_SCHEMA.md)
+SQLAlchemy>=2.0
+alembic>=1.13
+psycopg[binary]>=3.1
+pydantic>=2.7
+python-dotenv>=1.0
+argon2-cffi>=23.1

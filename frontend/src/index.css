@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html { font-size: 14.5px; }
+body { @apply bg-slate-100 font-sans antialiased; }
+html[dir='rtl'] body { font-family: 'Segoe UI', Tahoma, Arial, sans-serif; }
